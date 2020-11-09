@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Computers>
+  <Computer ScreenSize="15.4">
+    <Brand>Dell</Brand>
+    <Model>Inspiron</Model>
+    <Year>2020</Year>
+    <Processor Threads="8">
+      <Architecture>
+        <Model>i7</Model>
+        <Generation>8</Generation>
+      </Architecture>
+      <Clock>4.8Ghz</Clock>
+      <Cache>128MB</Cache>
+    </Processor>
+    <Storage>
+      <Cache>1GB</Cache>
+      <Cache>0.5GB</Cache>
+      <Main>16GB</Main>
+      <Harddrive>1TB</Harddrive>
+    </Storage>
+  </Computer>
+  <Computer>
+    <Brand>Lenovo</Brand>
+    <Model>IdeaPad</Model>
+    <Year>2020</Year>
+    <Processor Threads="6">
+      <Architecture>
+        <Model>i5</Model>
+        <Generation>8</Generation>
+      </Architecture>
+      <Clock>2.8Ghz</Clock>
+      <Cache>256MB</Cache>
+    </Processor>
+    <Storage>
+      <Cache>2GB</Cache>
+      <Cache>1.5GB</Cache>
+      <Main>16GB</Main>
+      <Harddrive>1TB</Harddrive>
+    </Storage>
+  </Computer>
+  <Computer>
+    <Brand>HP</Brand>
+    <Model>Blink</Model>
+    <Year>2020</Year>
+    <Processor Threads="16">
+      <Architecture>
+        <Model>i9</Model>
+        <Generation>10</Generation>
+      </Architecture>
+      <Clock>2.8Ghz</Clock>
+      <Cache>256MB</Cache>
+    </Processor>
+    <Storage>
+      <Cache>2GB</Cache>
+      <Cache>1.5GB</Cache>
+      <Cache>2GB</Cache>
+      <Main>16GB</Main>
+      <Harddrive>1TB</Harddrive>
+    </Storage>
+  </Computer>
+  <Computer ScreenSize="27">
+    <Brand>Apple</Brand>
+    <Model>iMac</Model>
+    <Year>2020</Year>
+    <Processor Threads="16">
+      <Architecture>
+        <Model>A14Z</Model>
+        <Generation>1</Generation>
+      </Architecture>
+      <Clock>5.0Ghz</Clock>
+      <Cache>512MB</Cache>
+    </Processor>
+    <Storage>
+      <Cache>8GB</Cache>
+      <Cache>3.5GB</Cache>
+      <Cache>6GB</Cache>
+      <Main>64GB</Main>
+      <Harddrive>1TB</Harddrive>
+    </Storage>
+  </Computer>
+</Computers>
