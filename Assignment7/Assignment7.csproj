@@ -64,6 +64,7 @@
     <Content Include="Service1.svc" />
     <Content Include="Web.config" />
     <Content Include="Xml\Computers.xml" />
+    <Content Include="Xml\InvalidComputers.xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Service1.svc.cs">
